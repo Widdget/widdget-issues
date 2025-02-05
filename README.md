@@ -36,5 +36,5 @@ Have an idea for improving Widdget? We'd love to hear it! Create a [new feature 
 Thank you for helping improve Widdget! 🚀  
 
 ---
-**📩 Contact:** If you have any questions, feel free to reach out via [support@widdget.app](mailto:eduard3v@gmail.com).  
+**📩 Contact:** If you have any questions, feel free to reach out via [mail](mailto:eduard3v@gmail.com).  
 
