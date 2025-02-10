@@ -8,7 +8,7 @@ If you encounter any issues or have ideas for new features, please follow the gu
 ---
 
 ## 📌 How to Report an Issue  
-If you've found a bug or a technical issue, please create a [new issue](https://github.com/widdget-issues/issues/new) and include:  
+If you've found a bug or a technical issue, please create a [new issue](https://github.com/Widdget/widdget-issues/issues/new?template=Blank+issue) and include:  
 
 - **A clear title** summarizing the issue  
 - **Steps to reproduce** the problem  
