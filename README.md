@@ -5,6 +5,10 @@ Welcome to the **Issues & Feature Requests** repository for [Widdget](https://ww
 This repository is dedicated to tracking **bugs** and **feature requests** related to Widdget.  
 If you encounter any issues or have ideas for new features, please follow the guidelines below.
 
+# Changelog
+
+You can read the full changelog [rigth here](https://panel.widdget.app/panel/306cf632-443b-46e7-a604-81f27fe0c6dc/fullscreen)
+
 ---
 
 ## 📌 How to Report an Issue  
